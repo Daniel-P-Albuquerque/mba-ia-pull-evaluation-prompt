@@ -48,3 +48,8 @@ ENV/
 screenshots/
 results/
 .claude/
+
+# Auxiliares de desenvolvimento (não versionar)
+_runs/
+*.bak
+evaluate_v1_baseline.py
